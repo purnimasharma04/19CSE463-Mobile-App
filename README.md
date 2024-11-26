@@ -19,3 +19,6 @@ Just run/build the project in android studio!
 <img src="./screenshots/2.jpg"/>
 <img src="./screenshots/3.jpg"/>
 
+
+Contributor: Purnima Rangavajjula - AM.EN.U4CSE21046, S7 CSE A
+
